@@ -5,7 +5,7 @@ import { Container, Header } from 'semantic-ui-react'
 
 const ContainerExampleText = () => (
   <Container text>
-    <Header as='h2'>Header</Header>
+    <Header as='h2'>He多大的ader</Header>
     <p>
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
       Aenean massa strong. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
